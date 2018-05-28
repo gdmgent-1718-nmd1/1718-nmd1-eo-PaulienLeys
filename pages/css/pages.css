@@ -9,6 +9,7 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+
 }
 
 img {
@@ -16,3 +17,13 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+h1{
+    font-family: arial, helvetica, sans-serif;
+    font-size: 60px;
+}
+
+#scenarios{
+    background-color:hsla(130,58%,64%,1);
+    height: 600px;
+}
