@@ -10,18 +10,198 @@ body {
     line-height: 1.5em;
     padding: 25px;
 
+
+
 }
 
-img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+/* ------- */
+
+h1 { 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
 }
+
+p1 {
+    color: white;
+}
+
+.header {
+    display:flex; 
+    justify-content: flex-start;
+    align-items: center;
+
+    background-color: rgb(170, 170, 170);
+    padding: 25px 50px 25px 50px;
+
+    border: 1px solid red;
+}
+
+.bijenkorf-foto {
+    margin-right: 25px;
+}
+
+.big-container {
+    display:flex; 
+    justify-content: space-between;
+
+    border: 1px solid blue;
+}
+.small-lettertype {
+    width: 25%;
+    border: 1px solid green;
+}
+
+.small-kleurenthema {
+    width: 60%;
+    display:flex; 
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: column; 
+
+    border: 1px solid yellow;
+}
+
+.hexagon-mid {
+    display:flex;  
+    justify-content: space-between;
+    width: 41%;
+    align-content: space-between;
+}
+
+.hexagon1 {
+    position: relative;
+   width: 100px; 
+  height: 57.74px;
+    background-color: #3F4344;
+    margin: 28.87px 0;
+  }
+  
+  .hexagon1:before,
+  .hexagon1:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  }
+  
+  .hexagon1:before {
+    bottom: 100%;
+    border-bottom: 28.87px solid #3F4344;
+  }
+  
+  .hexagon1:after {
+    top: 100%;
+    width: 0;
+    border-top: 28.87px solid #3F4344;
+  }
+
+
+  .hexagon2 {
+    position: relative;
+   width: 100px; 
+  height: 57.74px;
+    background-color: #CCCCCC;
+    margin: 28.87px 0;
+  }
+  
+  .hexagon2:before,
+  .hexagon2:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  }
+  
+  .hexagon2:before {
+    bottom: 100%;
+    border-bottom: 28.87px solid #CCCCCC;
+  }
+  
+  .hexagon2:after {
+    top: 100%;
+    width: 0;
+    border-top: 28.87px solid #CCCCCC;
+  }
+
+
+  .hexagon3 {
+    position: relative;
+   width: 100px; 
+  height: 57.74px;
+    background-color: #3F4344;
+    margin: 28.87px 0;
+  }
+  
+  .hexagon3:before,
+  .hexagon3:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  }
+  
+  .hexagon3:before {
+    bottom: 100%;
+    border-bottom: 28.87px solid #3F4344;
+  }
+  
+  .hexagon3:after {
+    top: 100%;
+    width: 0;
+    border-top: 28.87px solid #3F4344;
+  }
+
+
+  .hexagon4 {
+    position: relative;
+   width: 100px; 
+  height: 57.74px;
+    background-color: #CCCCCC;
+    margin: 28.87px 0;
+  }
+  
+  .hexagon4:before,
+  .hexagon4:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  }
+  
+  .hexagon4:before {
+    bottom: 100%;
+    border-bottom: 28.87px solid #CCCCCC;
+  }
+  
+  .hexagon4:after {
+    top: 100%;
+    width: 0;
+    border-top: 28.87px solid #CCCCCC;
+  }
+
+
+  .small-logo {
+    width: 15%;
+    border: 1px solid purple;
+}
+
+.logo2 {
+    width: 85%;
+}
+
+/* ----- */
+
+
 
 /* Voeg jouw css hieraan toe */
 
-h1{
-    font-family: arial, helvetica, sans-serif;
-    font-size: 60px;
-}
+
+
 
 #scenarios{
     background-color:hsla(130,58%,64%,1);
