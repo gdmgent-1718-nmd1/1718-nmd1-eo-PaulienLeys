@@ -238,7 +238,9 @@ h5 {
   .small-logo {
     width: 20%;
     border: 1px solid purple;
-    position: center;
+    display:flex;  
+    justify-content: space-between;
+    align-content: center;
 }
 
 .logo2 {
