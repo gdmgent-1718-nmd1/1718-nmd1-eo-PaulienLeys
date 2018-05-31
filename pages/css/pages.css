@@ -56,6 +56,10 @@ h5 {
 }
 
 
+p{
+  line-height: 1cm;
+}
+
 .header {
     display:flex; 
     justify-content: flex-start;
