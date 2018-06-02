@@ -398,18 +398,15 @@ hr{
 /* concurrentie */
 
 .concurrentie{
-  background-color:hsla(130,58%,64%,1);
   box-shadow: 5px 5px #3F4344;
 }
 
 
 .slecht{
-  background-color:hsla(130,58%,64%,1);
   box-shadow: 5px 5px #3F4344;
 }
 
 .goed{
-  background-color:hsla(130,58%,64%,1);
   box-shadow: 5px 5px #3F4344;
 }
 
