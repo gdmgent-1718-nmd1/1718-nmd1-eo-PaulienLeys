@@ -353,6 +353,8 @@ p{
 }
 
 .aanwezigheid{
+  width: 95%;
+  height: 95%;
   border: 1px solid;
 }
 
