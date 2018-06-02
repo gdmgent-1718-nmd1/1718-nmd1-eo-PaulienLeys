@@ -130,6 +130,7 @@ p{
   width: 41%;
   align-content: space-between;
   height: 400px;
+  margin-left: -20px;
 }
 
 
@@ -138,7 +139,8 @@ p{
   width: 100px; 
   height: 57.74px;
   background-color: #3F4344;
-  margin: 28.87px 0;
+  margin: 28.87px 0;  
+  margin-left: -20px;
 }
 
 .hexagon1:before,
@@ -148,17 +150,20 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: -20px;
 }
 
 .hexagon1:before {
   bottom: 100%;
   border-bottom: 28.87px solid #3F4344;
+  margin-left: -20px;
 }
 
 .hexagon1:after {
   top: 100%;
   width: 0;
   border-top: 28.87px solid #3F4344;
+  margin-left: -20px;
 }
 
 
@@ -170,6 +175,7 @@ p{
   height: 57.74px;
   background-color: #CCCCCC;
   margin: 28.87px 0;
+  margin-left: -20px;
 }
 
 .hexagon2:before,
@@ -179,17 +185,20 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: -20px;
 }
 
 .hexagon2:before {
   bottom: 100%;
   border-bottom: 28.87px solid #CCCCCC;
+  margin-left: -20px;
 }
 
 .hexagon2:after {
   top: 100%;
   width: 0;
   border-top: 28.87px solid #CCCCCC;
+  margin-left: -20px;
 }
 
 
@@ -201,6 +210,7 @@ p{
   height: 57.74px;
   background-color: #EDC82B;
   margin: 28.87px 0;
+  margin-left: -20px;
 }
 
 .hexagon3:before,
@@ -210,17 +220,20 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: -20px;
 }
 
 .hexagon3:before {
   bottom: 100%;
   border-bottom: 28.87px solid #EDC82B;
+  margin-left: -20px;
 }
 
 .hexagon3:after {
   top: 100%;
   width: 0;
   border-top: 28.87px solid #EDC82B;
+  margin-left: -20px;
 }
 
 
@@ -232,6 +245,7 @@ p{
   height: 57.74px;
   background-color: #6CE481;
   margin: 28.87px 0;
+  margin-left: -20px;
 }
 
 .hexagon4:before,
@@ -241,17 +255,20 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: -20px;
 }
 
 .hexagon4:before {
   bottom: 100%;
   border-bottom: 28.87px solid #6CE481;
+  margin-left: -20px;
 }
 
 .hexagon4:after {
   top: 100%;
   width: 0;
   border-top: 28.87px solid #6CE481;
+  margin-left: -20px;
 }
 
 
