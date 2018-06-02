@@ -337,7 +337,7 @@ p{
   transform: scale(1.1);
 }
 
-.button{
+.dropdown-hover{
   background-color: #EDC82B;
   border: 4px;
   color: black;
@@ -352,7 +352,7 @@ p{
   margin-left: 40px;
 }
 
-.button:hover{
+.dropdown-hover:hover{
   background-color: #6CE481;
   transform: scale(1.1);
 }
