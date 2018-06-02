@@ -70,8 +70,7 @@ p{
     padding: 25px 50px 25px 50px;
 
     border: 1px solid red;
-    margin-left: 100px;
-    margin-right: 100px;
+
 }
 
 .bijenkorf-foto {
@@ -83,8 +82,7 @@ p{
     justify-content: space-between;
 
     border: 1px solid blue;
-    margin-left: 100px;
-    margin-right: 100px;
+
 }
 .small-lettertype {
     width: 35%;
@@ -259,10 +257,6 @@ p{
 
 
 
-.tekst{
-  margin-left: 100px;
-  margin-right: 100px;
-}
 
 .hoofdtitel{
   letter-spacing: 10px;
