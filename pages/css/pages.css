@@ -296,34 +296,32 @@ p{
   display: inline-block;
   font-size: 25px;
   text-transform: uppercase;
+  box-shadow: 5px 5px #3F4344;
 }
 
 
 .knop2{
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
   text-transform: uppercase;
-  background-color: #6CE481;
-  width: 200px; 
-  height: 50px;
-  text-align:center;
-  border: 1px solid #6CE481;
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-left: 10px;
-  padding-bottom: -5px;
   box-shadow: 5px 5px #3F4344;
 }
 
 .knop3{
-  text-transform: uppercase;
   background-color: #EDC82B;
-  width: 200px; 
-  height: 50px;
-  text-align:center;
-  border: 1px solid #EDC82B;
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-left: 10px;
-  padding-bottom: -5px;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  text-transform: uppercase;
   box-shadow: 5px 5px #3F4344;
 }
 
@@ -331,7 +329,6 @@ p{
 
 .knop3:hover{
   background-color: #6CE481;
-  border: 1px solid #6CE481;
 }
 
 
