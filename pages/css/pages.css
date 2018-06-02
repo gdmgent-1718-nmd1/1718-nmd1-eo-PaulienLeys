@@ -292,6 +292,9 @@ p{
   width: 200px; 
   height: 50px;
   text-align:center;
+  border: 1px solid #EDC82B;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
 
 
@@ -301,6 +304,9 @@ p{
   width: 200px; 
   height: 50px;
   text-align:center;
+  border: 1px solid #6CE481;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
 
 .knop3{
@@ -309,7 +315,13 @@ p{
   width: 200px; 
   height: 50px;
   text-align:center;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
+
+
+
 .knop3:hover{
   background-color: #6CE481;
 }
