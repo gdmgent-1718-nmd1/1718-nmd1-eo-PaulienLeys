@@ -288,8 +288,8 @@ p{
 .knop1{
   text-transform: uppercase;
   background-color: #EDC82B;
-  width:50px; 
-  height: 20px;
+  widows: 100px; 
+  height: 50px;
 }
 
 #scenarios{
