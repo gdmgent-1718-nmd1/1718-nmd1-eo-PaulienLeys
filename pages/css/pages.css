@@ -19,7 +19,22 @@ body {
 
 
 
-/* ------- */
+/* tekst */
+
+
+.hoofdtitel{
+  letter-spacing: 10px;
+}
+
+
+.tusseltitel{
+  color: #EDC82B;
+}
+
+
+.link{
+  text-decoration: underline;
+}
 
 
 
@@ -42,11 +57,6 @@ h3 {
   line-height: 5px;
 }
 
-p1 {
-  color: white;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
-  text-align:center;
-}
 
 h4 {
   font-size: 25px;
@@ -60,11 +70,20 @@ h5 {
   line-height: 5px;
 }
 
+p1 {
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+  text-align:center;
+}
 
 p{
   line-height: 0,5cm;
   font-size: 20px;
 }
+
+
+/* boxes */
+
 
 .header {
     display:flex; 
@@ -80,9 +99,6 @@ p{
 
 }
 
-.bijenkorf-foto {
-    margin-right: 25px;
-}
 
 .big-container {
     display:flex; 
@@ -106,8 +122,7 @@ p{
 }
 
 
-
-
+/*hexagons*/
 
 .hexagon-mid {
   display:flex;  
@@ -116,9 +131,6 @@ p{
   align-content: space-between;
   height: 400px;
 }
-
-
-
 
 
 .hexagon1 {
@@ -148,8 +160,6 @@ p{
   width: 0;
   border-top: 28.87px solid #3F4344;
 }
-
-
 
 
 
@@ -185,8 +195,6 @@ p{
 
 
 
-
-
 .hexagon3 {
   position: relative;
    width: 100px; 
@@ -214,9 +222,6 @@ p{
   width: 0;
   border-top: 28.87px solid #EDC82B;
 }
-
-
-
 
 
 
@@ -252,6 +257,13 @@ p{
 
 
 
+/*logo*/
+
+
+.bijenkorf-foto {
+    margin-right: 25px;
+}
+
 .small-logo {
   width: 20%;
   border: 1px solid purple;
@@ -264,27 +276,14 @@ p{
 
 
 
-.hoofdtitel{
-  letter-spacing: 10px;
-}
-
-
-.tusseltitel{
-  color: #EDC82B;
-}
-
-
-.link{
-  text-decoration: underline;
-}
-
+/*map*/
 
 .myMap{
   width:400px;
   height:400px;
   border: 10px;
 }
-
+/* knoppen */
 
 .knop1{
   background-color: #EDC82B;
@@ -335,16 +334,18 @@ p{
   background-color: #6CE481;
 }
 
+/*lijn*/
 
+hr{
+  color: #6CE481;
+  height: 2px;
+  border:none;
+  border-top:2px solid #6CE481;
 
-
-#scenarios{
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color:hsla(130,58%,64%,1);
-    height: 700px;
-    box-shadow: 5px 5px #3F4344;
 }
 
+
+/* fotos */
 
 
 .onderkant{
@@ -390,14 +391,16 @@ p{
   width: 80%;
 }
 
-hr{
-  color: #6CE481;
-  height: 2px;
-  border:none;
-  border-top:2px solid #6CE481;
 
+
+
+
+#scenarios{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:hsla(130,58%,64%,1);
+    height: 700px;
+    box-shadow: 5px 5px #3F4344;
 }
 
 
 /* ----- */
-
