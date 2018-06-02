@@ -405,17 +405,20 @@ img:hover{
 
 .concurrentie{
   margin-top:5px;
+  border-top: 50px solid transparent;
 }
 
 
 .slecht{
   margin-top:5px;
+  border-top: 50px solid transparent;
 }
 
 
 
 .goed{
   margin-top:5px;
+  border-top: 50px solid transparent;
 }
 
 
