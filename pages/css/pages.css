@@ -130,6 +130,8 @@ p{
   width: 41%;
   align-content: space-between;
   height: 400px;
+  margin-left: -20px;
+  margin-right:20px;
 }
 
 
