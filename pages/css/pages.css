@@ -470,6 +470,10 @@ img:hover{
 
 /*icons*/
 
+i{
+  margin-top: 10px;
+}
+
 i:hover{
   color: #6CE481;
 }
