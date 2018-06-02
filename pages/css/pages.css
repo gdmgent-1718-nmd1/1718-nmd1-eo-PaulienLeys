@@ -25,6 +25,7 @@ body {
 .hoofdtitel{
   letter-spacing: 10px;
   text-shadow: 2px 2px #EDC82B;
+  text-transform: uppercase;
 }
 
 
@@ -56,6 +57,7 @@ h3 {
   font-size: 30px;
   font-weight: bolder;
   line-height: 5px;
+  text-shadow: 2px 2px #EDC82B;
 }
 
 
