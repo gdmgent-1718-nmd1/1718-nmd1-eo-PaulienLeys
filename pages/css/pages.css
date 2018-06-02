@@ -332,6 +332,7 @@ p{
 
 .knop3:hover{
   background-color: #6CE481;
+  transform: scale(1.1);
 }
 
 /*lijn*/
