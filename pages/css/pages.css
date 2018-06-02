@@ -394,23 +394,9 @@ hr{
 
 
 
-
-/* concurrentie */
-
-.concurrentie{
-  box-shadow: 5px 5px #3F4344;
+img:hover{
+  transform: scale(1.5);
 }
-
-
-.slecht{
-  box-shadow: 5px 5px #3F4344;
-}
-
-.goed{
-  box-shadow: 5px 5px #3F4344;
-}
-
-
 
 
 
