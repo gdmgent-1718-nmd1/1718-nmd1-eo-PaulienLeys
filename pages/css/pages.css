@@ -179,11 +179,13 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: 20px;
 }
 
 .hexagon2:before {
   bottom: 100%;
   border-bottom: 28.87px solid #CCCCCC;
+  margin-left: 20px;
 }
 
 .hexagon2:after {
@@ -242,11 +244,13 @@ p{
   width: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
+  margin-left: 20px;
 }
 
 .hexagon4:before {
   bottom: 100%;
   border-bottom: 28.87px solid #6CE481;
+  margin-left: 20px;
 }
 
 .hexagon4:after {
@@ -432,6 +436,11 @@ img:hover{
 }
 
 
+
+
+#map{
+  box-shadow: 5px 5px #3F4344;
+}
 
 
 #scenarios{
