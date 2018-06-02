@@ -170,6 +170,7 @@ p{
   height: 57.74px;
   background-color: #CCCCCC;
   margin: 28.87px 0;
+  margin-left: 20px;
 }
 
 .hexagon2:before,
@@ -235,6 +236,7 @@ p{
   height: 57.74px;
   background-color: #6CE481;
   margin: 28.87px 0;
+  margin-left: 20px;
 }
 
 .hexagon4:before,
