@@ -93,7 +93,7 @@ p{
     background-color: rgb(170, 170, 170);
     padding: 25px 50px 25px 50px;
 
-    border: 1px solid red;
+    border: 1px solid none;
     margin-left: -40px;
     margin-right: -40px; 
 
@@ -103,12 +103,12 @@ p{
 .big-container {
     display:flex; 
     justify-content: space-between;
-    border: 1px solid blue;
+    border: 1px solid none;
 
 }
 .small-lettertype {
     width: 35%;
-    border: 1px solid green;
+    border: 1px solid none;
 }
 
 .small-kleurenthema {
@@ -118,7 +118,7 @@ p{
     align-items: center;
     flex-flow: column; 
 
-    border: 1px solid yellow;
+    border: 1px solid none;
 }
 
 
@@ -266,7 +266,7 @@ p{
 
 .small-logo {
   width: 20%;
-  border: 1px solid purple;
+  border: 1px solid none;
 }
 
 .logo2 {
