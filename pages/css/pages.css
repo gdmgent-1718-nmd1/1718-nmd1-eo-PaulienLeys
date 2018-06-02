@@ -348,8 +348,8 @@ p{
 
 
 .onderkant{
-  width: 75%;
-  height: 75%;
+  width: 70%;
+  height: 70%;
 }
 
 .aanwezigheid{
@@ -369,7 +369,16 @@ p{
   height: 70%;
 }
 
+.menuhetpaleis{
+  width: 80%;
+  height: 80%;
+}
 
+
+.footer{
+  width: 80%;
+  height: 80%;
+}
 
 .menubronks{
   height: 70%;
