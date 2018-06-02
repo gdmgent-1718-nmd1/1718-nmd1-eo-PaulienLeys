@@ -347,7 +347,10 @@ p{
 
 
 
-
+.onderkant{
+  width: 50%;
+  height: 50%;
+}
 
 
 /* ----- */
