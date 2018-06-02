@@ -370,6 +370,8 @@ p{
 hr{
   color: #6CE481;
   height: 2px;
+  border:none;
+  border-top:1px solid #6CE481;
 }
 
 
